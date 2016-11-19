@@ -13,7 +13,7 @@ import com.tommyputranto.intro.fragment.ScreenSlideFragment2;
 
 
 public class ScreenSlidePagerAdapter  extends FragmentPagerAdapter {
-    //nama tab nya
+
 
 
     public ScreenSlidePagerAdapter(FragmentManager fm) {
@@ -38,7 +38,7 @@ public class ScreenSlidePagerAdapter  extends FragmentPagerAdapter {
 
         return fragment;
     }
-
+    // ini jumlah slide nya
     @Override
     public int getCount() {
         return 2;

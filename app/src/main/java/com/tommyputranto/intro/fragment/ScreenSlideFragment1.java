@@ -17,7 +17,7 @@ import com.tommyputranto.intro.R;
 public class ScreenSlideFragment1 extends Fragment {
 
     public ScreenSlideFragment1() {
-        // Required empty public constructor
+
     }
 
     @Nullable
